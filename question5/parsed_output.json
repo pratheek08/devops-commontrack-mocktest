@@ -1,0 +1,22 @@
+[
+    {
+        "timestamp": "2025-04-09 12:31:00",
+        "error": "ERROR Failed to connect to database"
+    },
+    {
+        "timestamp": "2025-04-09 12:31:45",
+        "error": "ERROR Database query failed"
+    },
+    {
+        "timestamp": "2025-04-09 12:32:15",
+        "error": "ERROR Timeout occurred"
+    },
+    {
+        "timestamp": "2025-04-09 12:33:45",
+        "error": "ERROR File not found"
+    },
+    {
+        "timestamp": "2025-04-09 12:33:50",
+        "error": "ERROR Exception during shutdown"
+    }
+]
